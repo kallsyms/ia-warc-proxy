@@ -1,0 +1,4 @@
+flask
+requests
+warcio
+gunicorn
